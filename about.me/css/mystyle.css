@@ -1,0 +1,15 @@
+body,html{
+    background-color: rgb(10, 9, 1);
+}
+    h1 { color: rgb(236, 99, 145)}
+        p {
+    color: aliceblue;
+}
+
+.grey-copy{
+color:grey;
+}
+
+#content-wrapper{
+ width:600px;
+}
