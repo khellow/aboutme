@@ -38,13 +38,25 @@ img{
     border-radius: 300px;
  }
 
+ul {
+    list-style-type: none;
+    width:300px;
+    margin: 0 auto;
+}
+
+ul.icons > li {
+    display: inline;
+}
+
+/* ul.icons{
+    width:250px;
+    display:inline;
+    margin:auto;
+}
+
  
- ul > li{
-display: inline;
-margin:0 5px 0 5px;
-width:300px;
-margin:o auto;
- }
-
-
-
+ul.icon > li{
+    display: inline;
+    margin:0 5px 0 5px;
+    
+} */
